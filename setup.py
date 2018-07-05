@@ -5,7 +5,7 @@ long_description = '''
 nnn'''
 
 setup(name='ssd',
-      version='2.2.0',
+      version='1.0.0',
       description='nnn',
       long_description=long_description,
       author='nnn',
