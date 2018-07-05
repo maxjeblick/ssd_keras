@@ -4,7 +4,7 @@ from setuptools import find_packages
 long_description = '''
 nnn'''
 
-setup(name='Keras',
+setup(name='ssd',
       version='2.2.0',
       description='nnn',
       long_description=long_description,
